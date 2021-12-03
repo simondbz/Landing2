@@ -1,0 +1,23 @@
+h1{
+	color: black;
+	font-family: URW Gothic L;
+
+}
+h2{
+	font-size : x-large;
+	font-family : URW Gothic L;
+
+}
+h3{
+	font-family : Avantgarde;
+	border-width: medium;
+}
+a{
+	color:  white;
+	padding: 20px;
+	text-decoration: none;
+	justify-content: center;
+	border-bottom: 5px solid grey;
+	background-size: cover;
+	font-family: Georgia, serif;
+	font-size: 20px;
